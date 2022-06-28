@@ -8,17 +8,17 @@ https://prnt.sc/javuEAsI7vRy
 
 node index.js --action get --id 5
 
-https://prnt.sc/Y52Hzo16aLtk
+https://prnt.sc/Ec5dlW3TO8Jn
 
 # Добавялем контакт
 
 node index.js --action add --name Mango --email mango@gmail.com --phone
 322-22-22
 
-https://prnt.sc/0S_NhP_MZcYv
+https://prnt.sc/Ci9i4_Eu_71R
 
 # Удаляем контакт
 
 node index.js --action remove --id=3
 
-https://prnt.sc/euxEjwN-N2SA
+https://prnt.sc/CbKF6vwrHnMx
